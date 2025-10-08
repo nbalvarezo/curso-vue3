@@ -1,4 +1,5 @@
 <template>
+  <h1>Listado de Posts: </h1>
   <PostContainer />
 </template>
 
@@ -8,4 +9,8 @@ import PostContainer from './components/PostContainer.vue';
 
 </script>
 
-<style></style>
+<style>
+h1 {
+  color: black;
+}
+</style>
