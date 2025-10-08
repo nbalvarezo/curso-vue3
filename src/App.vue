@@ -1,5 +1,5 @@
 <template>
-  <h1>Listado de Posts: </h1>
+  <h1>Listado de posts: </h1>
   <PostContainer />
 </template>
 
