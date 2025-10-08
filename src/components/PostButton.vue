@@ -5,7 +5,6 @@
 <script lang="ts" setup></script>
 
 <style scoped>
-
 .post-btn {
     padding: 15px;
     background-color: black;
@@ -19,5 +18,4 @@
     background-color: white;
     color: black;
 }
-
 </style>

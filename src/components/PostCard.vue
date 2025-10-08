@@ -6,22 +6,22 @@
             labore nulla dolorem voluptatem deserunt temporibus nemo iure, ut optio adipisci inventore odit sit eum
             omnis.
         </p>
-        <PostButton/>
+        <PostButton />
     </div>
 </template>
 
 <script lang="ts" setup>
 
-    import PostButton from './PostButton.vue';
+import PostButton from './PostButton.vue';
 
 
 </script>
 
 <style scoped>
-    .post-card {
-        border-radius: 15px;
-        padding: 10px;
-        margin: 5px;
-        border: 1px solid black;
-    }
+.post-card {
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+}
 </style>
